@@ -696,9 +696,9 @@
                 "storageProfile": {
                     "imageReference": {
                         "publisher": "paloaltonetworks",
-                        "offer": "vmseries1",
+                        "offer": "vmseries1-beta-preview",
                         "sku": "[parameters('licenseType')]",
-                        "version": "8.0.0"
+                        "version": "9.0.0"
                     },
                     "osDisk": {
                         "name": "osdisk",
@@ -767,9 +767,9 @@
                 "storageProfile": {
                     "imageReference": {
                         "publisher": "paloaltonetworks",
-                        "offer": "vmseries1",
+                        "offer": "vmseries1-beta-preview",
                         "sku": "[parameters('licenseType')]",
-                        "version": "8.0.0"
+                        "version": "9.0.0"
                     },
                     "osDisk": {
                         "name": "osdisk",
